@@ -3,7 +3,7 @@ My first repository
 **TEO ADRIAN A. FONDEVILLA**
 **BI-504**
 
-# H1 MOVIES/SERIES
+# H1 MY MOVIES/SERIES
 
 1. Interstellar is a 2014 science fiction film directed by Christopher Nolan. It follows a group of astronauts led by Cooper who travel through a wormhole to find a new habitable planet as Earth faces environmental collapse. The movie explores themes of love, time, and survival, with stunning visuals and a powerful score by Hans Zimmer.
 
